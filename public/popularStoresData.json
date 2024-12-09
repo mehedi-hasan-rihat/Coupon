@@ -1,0 +1,33 @@
+[
+    {
+      "_id": "1",
+      "brand_name": "Daraz",
+      "brand_logo": "https://i.ibb.co.com/rsZPhjc/download.png"
+    },
+    {
+      "_id": "2",
+      "brand_name": "HomeTech",
+      "brand_logo": "https://i.ibb.co.com/TcSmScD/bl-3.png"
+    },
+    {
+      "_id": "3",
+      "brand_name": "Gourmet Delights",
+      "brand_logo": "https://i.ibb.co.com/Z157j8m/bl-4.png"
+    },
+    {
+      "_id": "4",
+      "brand_name": "Rokomari",
+      "brand_logo": "https://i.ibb.co.com/Jv5nZnM/download.png"
+    },
+    {
+      "_id": "5",
+      "brand_name": "Picakbo",
+      "brand_logo": "https://businesshaunt.com/wp-content/uploads/2023/09/pickaboo-200x68.png"
+    },
+    {
+      "_id": "6",
+      "brand_name": "Gourmet Delights",
+      "brand_logo": "https://i.ibb.co.com/Z157j8m/bl-4.png"
+    }
+  
+  ]

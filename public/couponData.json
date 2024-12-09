@@ -1,0 +1,319 @@
+[
+  {
+    "_id": "1",
+    "brand_name": "Daraz",
+    "rating": 4.8,
+    "description": "Daraz is the largest e-commerce platform in South Asia, offering a wide variety of products ranging from electronics, fashion, and home essentials to groceries. With unbeatable discounts and frequent mega sales, Daraz is your one-stop shop for online shopping.",
+    "brand_logo": "https://i.ibb.co.com/rsZPhjc/download.png",
+    "coupons": [
+      {
+        "coupon_code": "DARAZ20",
+        "description": "Get 20% off on all items.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on purchases over $50.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://www.daraz.com.bd/"
+      },
+      {
+        "coupon_code": "DARAZSHIP",
+        "description": "Free shipping on all orders.",
+        "expiry_date": "2024-12-31",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Shipping",
+        "shop_Link": "https://www.daraz.com.bd/"
+      }
+    ],
+    "category": "E-commerce",
+    "isSaleOn": false
+  },
+  {
+    "_id": "2",
+    "brand_name": "Foodpanda",
+    "rating": 4.7,
+    "description": "Foodpanda is a leading online food delivery service in Bangladesh. Order from your favorite restaurants and get food delivered to your doorstep. Enjoy exclusive discounts and hassle-free payment options through Foodpanda.",
+    "brand_logo": "https://i.ibb.co.com/w7CTGCz/images.png",
+    "coupons": [
+      {
+        "coupon_code": "PANDA50",
+        "description": "Get 50% off on your first order.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid for new customers only.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://www.foodpanda.com.bd/"
+      },
+      {
+        "coupon_code": "PANDADEL",
+        "description": "Free delivery on orders above $15.",
+        "expiry_date": "2024-11-30",
+        "condition": "Valid in select areas only.",
+        "coupon_type": "Shipping",
+        "shop_Link": "https://www.foodpanda.com.bd/"
+      }
+    ],
+
+    "category": "Food Delivery",
+    "isSaleOn": true
+  },
+  {
+    "_id": "3",
+    "brand_name": "HomeTech",
+    "rating": 4.7,
+    "description": "HomeTech provides smart home appliances that make your life easier and more efficient. Offering innovative solutions like smart lighting, security, and automation, HomeTech helps you create the perfect home environment. Discover advanced technology at competitive prices. From smart thermostats to home automation systems, HomeTech is your go-to brand. Experience modern living with their state-of-the-art products.",
+    "brand_logo": "https://i.ibb.co.com/TcSmScD/bl-3.png",
+    "coupons": [
+      {
+        "coupon_code": "HOME15",
+        "description": "Get 15% off on your first smart home appliance.",
+        "expiry_date": "2024-12-25",
+        "condition": "Valid on smart appliances only.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://hometech.pk/"
+      },
+      {
+        "coupon_code": "HOME30",
+        "description": "Save 30% on home automation systems.",
+        "expiry_date": "2024-11-30",
+        "condition": "Minimum purchase of $200.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://hometech.pk//"
+      }
+    ],
+
+    "category": "Home Appliances",
+    "isSaleOn": false
+  },
+  {
+    "_id": "4",
+    "brand_name": "Gourmet Delights",
+    "rating": 4.8,
+    "description": "Indulge in the finest gourmet foods delivered straight to your door. Gourmet Delights offers a wide selection of premium foods, from luxury chocolates to gourmet baskets. Perfect for gifting or treating yourself, their products promise quality and taste. Whether you're a foodie or looking for a special gift, their offerings cater to all. Enjoy the best in gourmet dining, delivered conveniently.",
+    "brand_logo": "https://i.ibb.co.com/Z157j8m/bl-4.png",
+    "coupons": [
+      {
+        "coupon_code": "GOURMET5",
+        "description": "Get $5 off on your first order.",
+        "expiry_date": "2024-11-20",
+        "condition": "Valid for new users only.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://www.daraz.com.bd/"
+      },
+      {
+        "coupon_code": "GOURMET20",
+        "description": "Get 20% off on all gourmet baskets.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on orders above $100.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://www.daraz.com.bd/"
+      }
+    ],
+    "category": "Food & Beverages",
+    "isSaleOn": false
+  },
+  {
+    "_id": "5",
+    "brand_name": "FitLife",
+    "rating": 4.3,
+    "description": "FitLife offers health and fitness products, from gym equipment to supplements. Their focus is on helping you lead a healthier lifestyle with a range of quality fitness products. Whether you're a professional athlete or just starting your fitness journey, FitLife has something for everyone. Take your workouts to the next level with their top-tier gym equipment. Reach your fitness goals with the help of FitLife.",
+    "brand_logo": "https://i.ibb.co.com/5Tgq2bY/bl-5.png",
+    "coupons": [
+      {
+        "coupon_code": "FIT25",
+        "description": "Save 25% on fitness supplements.",
+        "expiry_date": "2024-11-30",
+        "condition": "Valid on supplements only.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://fitlife-bd.com/"
+      },
+      {
+        "coupon_code": "FIT10",
+        "description": "Get 10% off on gym equipment.",
+        "expiry_date": "2024-11-15",
+        "condition": "Valid on purchases over $100.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://fitlife-bd.com/"
+      }
+    ],
+
+    "category": "Fitness",
+    "isSaleOn": true
+  },
+  {
+    "_id": "6",
+    "brand_name": "Rokomari",
+    "rating": 4.6,
+    "description": "Rokomari is the ultimate online bookstore for book lovers of all ages. Offering a wide range of genres from bestsellers to hidden gems, Rokomari has it all. Whether you're into fiction, non-fiction, or children's books, you'll find your next read here. Enjoy discounts on popular titles and explore new releases. Stay immersed in the world of books with Rokomari's curated collection.",
+    "brand_logo": "https://i.ibb.co.com/Jv5nZnM/download.png",
+    "coupons": [
+      {
+        "coupon_code": "BOOK10",
+        "description": "Get 10% off on bestsellers.",
+        "expiry_date": "2024-12-01",
+        "condition": "Valid on bestsellers only.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://www.rokomari.com/book"
+      },
+      {
+        "coupon_code": "BOOK20",
+        "description": "Save 20% on all fiction books.",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid on fiction category only.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://www.rokomari.com/book"
+      }
+    ],
+
+    "category": "Books",
+    "isSaleOn": false
+  },
+  {
+    "_id": "7",
+    "brand_name": "ChalDal",
+    "rating": 3.2,
+    "description": "Chaldal.com is the finest online e-commerce food shop in Bangladesh. Customers may conveniently obtain their daily food products from here. They not only sell groceries, but also fruits, vegetables, rice, seafood, meat, drinks, cleaning supplies, and baby products. Credit cards, bKash, and cash-on-delivery are the available payment methods",
+    "brand_logo": "https://businesshaunt.com/wp-content/uploads/2023/09/chaldal-200x112.jpg",
+    "coupons": [
+      {
+        "coupon_code": "DARAZ20",
+        "description": "Get 20% off on all items.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on purchases over $50.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://chaldal.com/"
+      },
+      {
+        "coupon_code": "DARAZSHIP",
+        "description": "Free shipping on all orders.",
+        "expiry_date": "2024-12-31",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Shipping",
+        "shop_Link": "https://chaldal.com/"
+      },
+      {
+        "coupon_code": "Chaldal20",
+        "description": "Free shipping on 2000 taka.",
+        "expiry_date": "2023-02-11",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Shipping",
+        "shop_Link": "https://chaldal.com/"
+      }
+    ],
+    "category": "Grocery",
+    "isSaleOn": true
+  },
+  {
+    "_id": "8",
+    "brand_name": "AjkerDeal",
+    "rating": 3.2,
+    "description": "Ajkerdeal.com is a popular e-commerce website that caters to the needs of the middle class in Bangladesh by providing a wide range of daily essential products. They offer electronics, home appliances, and even food products, making it a one-stop-shop for all your needs. Established in 2011, ajkerdeal.com is a sister company of bdjobs.com, the largest employment portal in Bangladesh.",
+    "brand_logo": "https://businesshaunt.com/wp-content/uploads/2023/09/ajkerdeal-200x125.png",
+    "coupons": [
+      {
+        "coupon_code": "AjkerDeal",
+        "description": "Free shipping on all orders.",
+        "expiry_date": "2024-12-31",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Shipping",
+        "shop_Link": "https://www.ajkerdeal.com/"
+      },
+      {
+        "coupon_code": "Chaldal20",
+        "description": "Free shipping on 2000 taka.",
+        "expiry_date": "2023-02-11",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Shipping",
+        "shop_Link": "https://www.ajkerdeal.com/"
+      }
+    ],
+    "category": "Grocery",
+    "isSaleOn": true
+  },
+  {
+    "_id": "9",
+    "brand_name": "Picakbo",
+    "rating": 3.2,
+    "description": "If you’re looking for authentic and reasonably priced electronic devices, look no further than pickaboo.com. Known for its extensive collection of well-known foreign brands, Pickaboo provides brand warranties on all its products. They specialize in electronics and technological items, so there’s no need to go to multiple stores for your needs. Plus, they offer same-day and next-day delivery, as well as a return policy in case a product is damaged.",
+    "brand_logo": "https://businesshaunt.com/wp-content/uploads/2023/09/pickaboo-200x68.png",
+    "coupons": [
+      {
+        "coupon_code": "Picako20",
+        "description": "Get 20% off on all items.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on purchases over $50.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://www.pickaboo.com/"
+      },
+      {
+        "coupon_code": "SHIP20",
+        "description": "Free shipping on all orders.",
+        "expiry_date": "2024-12-31",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Shipping",
+        "shop_Link": "https://www.pickaboo.com/"
+      },
+      {
+        "coupon_code": "Chaldal20",
+        "description": "Free shipping on 2000 taka.",
+        "expiry_date": "2023-02-11",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Shipping",
+        "shop_Link": "https://www.pickaboo.com/"
+      }
+    ],
+    "category": "Grocery",
+    "isSaleOn": false
+  },
+  {
+    "_id": "10",
+    "brand_name": "Othoba",
+    "rating": 3.2,
+    "description": "othoba.com is an e-commerce website that is more focused on garbing the market of accessories, daily groceries, and medical kits. It is doing business since November 2015. It is a sister concern of the Pran-RFL group. Their advantage over other e-commerce sites is lower delivery charges. The Pran-RFL company’s strong distribution system is working as a core pillar for othoba.com. Their primary purpose is to ensure that their clients are satisfied. They also have a live chat facility, which allows customers to obtain answers to any queries they may have regarding a given product.",
+    "brand_logo": "https://businesshaunt.com/wp-content/uploads/2023/09/othoba1-20201011150045-200x104.jpg",
+    "coupons": [
+      {
+        "coupon_code": "Othoba20",
+        "description": "Get 20% off on all items.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on purchases over $50.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://www.othoba.com/"
+      },
+      {
+        "coupon_code": "ZSHIP20",
+        "description": "Free shipping on all orders.",
+        "expiry_date": "2024-12-31",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Shipping",
+        "shop_Link": "https://www.othoba.com/"
+      }
+    ],
+    "category": "Grocery",
+    "isSaleOn": true
+  },
+  {
+    "_id": "11",
+    "brand_name": "Gourmet Delights",
+    "rating": 4.8,
+    "description": "Indulge in the finest gourmet foods delivered straight to your door. Gourmet Delights offers a wide selection of premium foods, from luxury chocolates to gourmet baskets. Perfect for gifting or treating yourself, their products promise quality and taste. Whether you're a foodie or looking for a special gift, their offerings cater to all. Enjoy the best in gourmet dining, delivered conveniently.",
+    "brand_logo": "https://i.ibb.co.com/Z157j8m/bl-4.png",
+    "coupons": [
+      {
+        "coupon_code": "GOURMET5",
+        "description": "Get $5 off on your first order.",
+        "expiry_date": "2024-11-20",
+        "condition": "Valid for new users only.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://gourmetsdelight.com/"
+      },
+      {
+        "coupon_code": "GOURMET20",
+        "description": "Get 20% off on all gourmet baskets.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on orders above $100.",
+        "coupon_type": "Discount",
+        "shop_Link": "https://gourmetsdelight.com/"
+      }
+    ],
+    "category": "Food & Beverages",
+    "isSaleOn": false
+  }
+]
