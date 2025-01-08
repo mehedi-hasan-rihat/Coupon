@@ -24,7 +24,8 @@ const router = createBrowserRouter([
             },
             {
                 path : 'brands',
-                element :<AllBrands/>
+                element :<AllBrands/>,
+                loader : () => fetch('couponData.json')
             },
             {
                 path : '/my_profile',
